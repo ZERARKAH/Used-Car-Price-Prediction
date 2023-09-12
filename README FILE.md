@@ -1,7 +1,7 @@
 
 
 # Used Car Price Prediction: A CRISP-DM Approach
-
+![s59r_fxslide1](https://github.com/ZERARKAH/Used-Car-Price-Prediction/assets/130615319/a68d3a72-3fe8-46d2-99c5-21d1f65d4714)
 ## Overview
 
 This repository employs the CRISP-DM (Cross-Industry Standard Process for Data Mining) methodology to analyze a dataset of used car listings. The dataset, sourced from Kaggle, originally consisted of 3 million entries; however, for computational efficiency, we focus on a subset of 426K entries. The primary goal is to identify factors that influence the pricing of used cars, thereby aiding a used car dealership in making informed decisions.

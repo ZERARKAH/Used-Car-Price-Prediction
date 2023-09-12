@@ -60,7 +60,7 @@ The final models can be used by the used car dealership to predict car prices ba
 2. **Strong Predictive Power**: All three models achieved an \( R^2 \) score above 0.8 on the test set, meaning they could explain more than 80% of the variance in car prices.
 
 3. **Residual Distribution**: The residuals for all three models were generally well-distributed around zero, although there was some indication of heteroscedasticity (varying spread of residuals across the range of predicted values).
-
+![download](https://github.com/ZERARKAH/Used-Car-Price-Prediction/assets/130615319/ffd21d59-2336-402b-9f2b-d81eae114be3)
 ### Variable Importance
 
 1. **Year and Condition**: Cars that are newer and in better condition generally command higher prices, as intuitively expected.
@@ -68,6 +68,7 @@ The final models can be used by the used car dealership to predict car prices ba
 2. **Manufacturer and Model**: Certain car brands and models tend to be more expensive, likely owing to brand value, luxury status, or other factors that influence perceived quality.
 
 3. **Mileage**: Lower odometer readings generally lead to higher prices, which is consistent with the expectation that cars with less wear and tear are more valuable.
+![download (1)](https://github.com/ZERARKAH/Used-Car-Price-Prediction/assets/130615319/bcd582c5-0753-4091-92d6-041fcf093c93)
 
 ## Recommendations for the Used Car Dealership
 

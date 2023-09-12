@@ -5,7 +5,7 @@
 ## Overview
 
 This repository employs the CRISP-DM (Cross-Industry Standard Process for Data Mining) methodology to analyze a dataset of used car listings. The dataset, sourced from Kaggle, originally consisted of 3 million entries; however, for computational efficiency, we focus on a subset of 426K entries. The primary goal is to identify factors that influence the pricing of used cars, thereby aiding a used car dealership in making informed decisions.
-
+- #### All of the work done, including observations and comments, is contained within the following Jupyter Notebook, which provides a comprehensive analysis.[Jupyter notebook]([https://github.com/ZERARKAH/Amazon_coupons/blob/da30e4371936c06cc978ae41f135aadb3d0f6969/prompt.ipynb](https://github.com/ZERARKAH/Used-Car-Price-Prediction/blob/main/Final.ipynb))
 ## CRISP-DM Process
 
 ### 1. Business Understanding
